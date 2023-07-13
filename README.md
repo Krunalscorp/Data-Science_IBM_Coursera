@@ -1,3 +1,2 @@
-# testrepo
-Firts Python prog on github
-It's a Markdown file in this repository
+# IBM Data Science 
+This repository contains all the assignments of the Coursera IBM Data Science course.
